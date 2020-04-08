@@ -1,0 +1,19 @@
+I"0<p>Work in progress! Last updated: 04-06-2020</p>
+
+<p>I’m a part time grad student in the <a href="https://depts.washington.edu/machines/" target="_blank"><b>University of Washington Machine Agency lab</b></a>.  I am working under the guidance of Professor Nadya Peek and HCDE PhD candidate Joshua Vasquez.  My research project is building an open-source, extensible multi-tool motion platform (CNC machine) called <a href="https://github.com/machineagency/jubilee" target="_blank"><b>Jubilee</b></a>.</p>
+
+<h3 id="spring-2020-right-now">Spring 2020 (Right now!)</h3>
+
+<p>In Spring 2020, because of the closure of UW campus due to COVID-19, my lab was kind enough to deliver the components so I can work on Jubilee from home! I am responsible for the wiring and tuning of the machine.</p>
+
+<p>Check back later for updates.</p>
+
+<h3 id="winter-2020">Winter 2020</h3>
+
+<p>My team of 3 grad students delved into the instructions of building Jubilee, and got as far as the frame, shown below.  We focused on improving documentation and learning how to operate an existing model of Jubilee.</p>
+
+<p><img src="/assets/img/jubilee/frame-winter2020.jpg" alt="frame-assembly" /></p>
+
+<p>Bird’s eye videos of frame assembly to include in documentation:
+<img src="/assets/img/jubilee/frameassembly.gif" alt="frame-assembly-gif" /></p>
+:ET
