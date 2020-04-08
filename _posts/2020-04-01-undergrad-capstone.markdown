@@ -3,7 +3,7 @@ layout: post
 title: Mechanical Engineering Capstone
 # date: 
 description: My UC San Diego undergraduate team capstone project sponsored by ATA Engineering. # Add post description (optional)
-img: undergrad-capstone/header.jpg # Add image post (optional)
+img: undergrad-capstone/main.jpg # Add image post (optional)
 tags: [project, mechanicalengineering, ucsandiego] # add tag
 ---
 
