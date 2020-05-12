@@ -10,7 +10,7 @@ tags: [Resume, Portfolio, Experience]
 
 [<b>Download resume pdf here.</b>](/assets/documents/resume.pdf){:target="_blank"}
 
-Last updated: 04-06-2020
+Last updated: 05-12-2020
 
 Education Summary: 
 * Graduating with a Masters in Human Centered Design & Engineering June 2020
@@ -18,7 +18,7 @@ Education Summary:
 
 Work Summary:
 * Currently an aircraft systems design engineer for commercial airplane flight decks
-* 4+ years of commercial airplane primary structure experience, mostly in research, design, and testing of composite materials and structural wing components
+* Background in commercial airplane primary structure design experience, mostly in research, design, and testing of composite materials and structural wing components
 * Experienced in both R&D and factory/production environments
 * Previously interned as a Hot Wheels design engineer in the toy industry, and for a NASA educational program named [<b>Sally Ride EarthKAM</b>](https://www.earthkam.org/){:target="_blank"}
 * In undergrad I was a MATLAB TA for 8 consecutive academic quarters

@@ -7,7 +7,7 @@ img: jubilee/header.jpg # Add image post (optional)
 tags: [Machines, Research, HCDE, HardwareDev, Prototyping, Wiring, Tuning, Testing] # add tag
 ---
 
-Work in progress! Last updated: 05-02-2020
+Work in progress! Last updated: 05-12-2020
 
 I'm a part time grad student in the [<b>University of Washington Machine Agency lab</b>](https://depts.washington.edu/machines/){:target="_blank"}.  I am working under the guidance of Professor Nadya Peek and HCDE PhD candidate Joshua Vasquez.  My research project is building an open-source, extensible multi-tool motion platform (CNC machine) called [<b>Jubilee</b>](https://github.com/machineagency/jubilee){:target="_blank"}.
 
@@ -22,7 +22,11 @@ I also found it helpful to label the wires that plug into the boards.
 
 ![frame-assembly]({{site.baseurl}}/assets/img/jubilee/jubilee-duet-labels.jpg)
 
-My next steps are to update the firmware on the Duet 2 board, which I need a micro SD to USB adapter for, and I am waiting for that to be shipped. After that I can get the machine moving and move on to tuning.  In the meantime I'll be working on documentation on the project's Github page.
+After some troubleshooting, grease, and rebuilding, the machine is moving! Here is a video of it homing the X, Y, and Z axes. It automatically levels the tool bed.
+
+![]({{site.baseurl}}/assets/img/jubilee/homing.gif)
+
+Excuse the blue tape attaching the dangling power socket... The first thing that this machine will print is a housing for the power socket! Next steps are to get the tool bed heated and the 3D printing extruder heat working.
 
 Check back later for updates!
 
