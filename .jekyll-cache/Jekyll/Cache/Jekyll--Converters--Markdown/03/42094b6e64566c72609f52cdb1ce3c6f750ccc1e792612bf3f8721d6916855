@@ -1,0 +1,35 @@
+I"�<p>Work in progress! Last updated: 06-11-2020</p>
+
+<p>I’m a part time grad student in the <a href="https://depts.washington.edu/machines/" target="_blank"><b>University of Washington Machine Agency lab</b></a>.  I am working under the guidance of Professor Nadya Peek and HCDE PhD candidate Joshua Vasquez.  My research project is building an open-source, extensible multi-tool motion platform (CNC machine) called [<b>Jubilee</b>](https://jubilee3d.com”_blank”}.</p>
+
+<hr />
+
+<h3 id="spring-2020">Spring 2020</h3>
+
+<p>In Spring 2020, because of the closure of UW campus due to COVID-19, my lab was kind enough to deliver the components so I can work on Jubilee from home! Here is a photo of current progress from my living room.  I followed wiring diagrams for the <a href="https://duet3d.dozuki.com/Wiki/Duet_Wiring_Diagrams/" target="_blank"><b>Duet 2</b></a> and <a href="https://duet3d.dozuki.com/Wiki/Duex_wiring_diagrams/" target="_blank"><b>Duex 5</b></a> boards that are on the machine.</p>
+
+<p><img src="/assets/img/jubilee/jubilee-05022020.jpg" alt="frame-assembly" /></p>
+
+<p>I also found it helpful to label the wires that plug into the boards.</p>
+
+<p><img src="/assets/img/jubilee/jubilee-duet-labels.jpg" alt="frame-assembly" /></p>
+
+<p>After some troubleshooting, grease, and rebuilding, the machine is moving! Here is a video of it homing the X, Y, and Z axes. It automatically levels the tool bed.</p>
+
+<p><img src="/assets/img/jubilee/homing.gif" alt="" /></p>
+
+<p>Excuse the blue tape attaching the dangling power socket… The first thing that this machine will print is a housing for the power socket! Next steps are to get the tool bed heated and the 3D printing extruder heat working.</p>
+
+<p>Check back later for updates!</p>
+
+<hr />
+
+<h3 id="winter-2020">Winter 2020</h3>
+
+<p>My team of 3 grad students delved into the instructions of building Jubilee, and got as far as the frame, shown below.  We focused on improving documentation and learning how to operate an existing model of Jubilee.</p>
+
+<p><img src="/assets/img/jubilee/frame-winter2020.jpg" alt="frame-assembly" /></p>
+
+<p>Bird’s eye videos of frame assembly to include in documentation:
+<img src="/assets/img/jubilee/frameassembly.gif" alt="frame-assembly-gif" /></p>
+:ET

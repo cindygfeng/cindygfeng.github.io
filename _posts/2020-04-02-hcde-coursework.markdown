@@ -7,7 +7,7 @@ img: hcde-projects/physicalprototyping-finalproject.jpg # Add image post (option
 tags: [masters, hcde, univesityof washington, humancentereddesign] # add tag
 ---
 
-In June 2020 I will graduate with my Masters in Human Centered Design & Engineering.
+In June 2020 I graduated with my Masters in Human Centered Design & Engineering.
 
 I've been a part time grad student from 2017-2020 learning and applying all aspects of the human centered design process.  The program is largely group projects, and I have learned so much from my classmates and the HCDE department and brought a unique perspective with my mechanical engineering background as well.  Below is my coursework and some project highlights, in chronological order:
 
@@ -21,6 +21,9 @@ I've been a part time grad student from 2017-2020 learning and applying all aspe
 * <b>Special Topics: Digital Fabrication, HCDE 598 Spring 2019</b>: Projects below
 * <b>Theoretical Foundations of Human Centered Design and Engineering, Fall 2019<b>
 * <b>(Current) Capstone, HCDE 592 and 593, Winter and Spring 2020</b>
+
+
+<b>***NOTE: I am the owner of all the photos and videos below and you cannot use them without my permission***<b>
 
 ------------------------
 ------------------------

@@ -1,19 +1,25 @@
 ---
 layout: post
-title: (Current) Grad School Capstone - Haptics
+title: Grad School Capstone - Haptic Interactions
 # date: 
 description: My capstone team's final project before we earn our Masters degrees in HCDE. # Add post description (optional)
-img: hcde-capstone/temp-header.jpg # Add image post (optional)
+img: hcde-capstone/test-setup.jpg # Add image post (optional)
 tags: [project, haptics, prototyping] # add tag
 ---
 
-Work in progress! Last updated: 04-06-2020
+Last updated: 06-11-2020
 
-I am in a team of four Human Centered Design & Engineering masters students focused on applying the human-centered design process to our final project.
+### Spring 2020 - Capstone Project Execution Quarter
 
-### Spring 2020 - Capstone Project Execution Quarter (Right now!)
+After pivoting to adjust to the unfolding COVID-19 University of Washington and Washington state guidelines, our team is still focused on prototyping and testing of haptic builds. <s>Check back later for details on project progress.</s> The project is complete!
 
-After pivoting to adjust to the unfolding COVID-19 University of Washington and Washington state guidelines, our team is still focused on prototyping and testing of haptic builds.  Check back later for details on project progress.
+I was in a team of four Human Centered Design & Engineering masters students focused on applying the human-centered design process to our final project.
+
+<b>Project Description:</b> Using an experimental and discursive approach, our project broadens the understanding of touch-based interactions in computing to include sensory stimuli such as temperature, vibration, weight, texture, and form factor. Over the course of our project, we developed a design language and framework for haptic, tactile design. The prototypes we built are an exploration of these guiding principles and insights, with different textures, vibration patterns, temperatures, input, and output sensors to create touch-based experiences. Through exploring our design framework and our prototypes as an example of application, we hope to inspire others to incorporate touch-based interaction in their design approach and reimagine this new haptic computing experience.
+
+
+<iframe src="https://player.vimeo.com/video/425748760" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+------------------------
 
 ### Winter 2020 - Capstone Planning Quarter
 
@@ -21,4 +27,4 @@ Our team formed based on mutual interest in physical prototyping of e-textiles a
 
 At the end of winter quarter, we submitted a capstone proposal document.  [<b>Download our capstone proposal document here.</b>](/assets/documents/team-rocket-final-project-proposal.pdf){:target="_blank"}
 
-Our executive summary: Our project is largely exploratory and will explore haptic interactions with e-textile technology such as conductive fabric, thread and sewable microcontrollers. We are planning an initial co-design workshop to immerse our users in co-designing prototypes.  We will have various electronic components, sensors, and soft goods at the workshop, informed by our literature review and formative research. For prototype form factors, we plan to sew our own low fidelity beanbag soft goods such as a neck pillow, an arm band, large huggable beanbag, and small handheld beanbag. We chose beanbags because we can sew them ourselves and fill them with sensors and different materials and adapt them to many different form factors. After the co-design workshop, we plan to build, test, and iterate higher fidelity prototypes with the goal of using qualitative and quantitative evaluation through further testing to explore the effects on stress. We plan on having our physical prototypes with storyboards on display at the capstone open house.
+Our executive summary: Our project is largely exploratory and will explore haptic interactions with e-textile technology such as conductive fabric, thread and sewable microcontrollers. We are planning an initial co-design workshop to immerse our users in co-designing prototypes. We will have various electronic components, sensors, and soft goods at the workshop, informed by our literature review and formative research. For prototype form factors, we plan to sew our own low fidelity beanbag soft goods such as a neck pillow, an arm band, large huggable beanbag, and small handheld beanbag. We chose beanbags because we can sew them ourselves and fill them with sensors and different materials and adapt them to many different form factors. After the co-design workshop, we plan to build, test, and iterate higher fidelity prototypes with the goal of using qualitative and quantitative evaluation through further testing to explore the effects on stress. We plan on having our physical prototypes with storyboards on display at the capstone open house.
