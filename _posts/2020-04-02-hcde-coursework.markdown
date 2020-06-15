@@ -13,14 +13,14 @@ I've been a part time grad student from 2017-2020 learning and applying all aspe
 
 * <b>User Centered Design, HCDE 518 Fall 2017</b>
 * <b>International User Experience and Communication, HCDE 512 Fall 2017</b>
-* <b>Usability Studies, HCDE 517 Winter 2018</b>: Worked in team of 3 students with Alaska Airlines to conduct usability studies of the booking and airport experience for parents of children under age 2.  Involved in data synthesis and presented findings to Alaska User Research team at the end of the quarter.
+* <b>Usability Studies, HCDE 517 Winter 2018</b>: Worked in team of 3 students with Alaska Airlines to conduct usability studies of the booking and airport experience for parents of children under age 2.  Involved in data synthesis and presented findings to Alaska Airlines UX team at the end of the quarter.
 * <b>Qualitative Research Methods, HCDE 519 Spring 2018</b>
 * <b>Information Visualization, HCDE 511 Fall 2018</b>: Worked in team of 4 HCDE and Data Science masters students to create Tableau website to visualize Seattle crime data between 2008 and 2018.  [<b>See the Tableau Seattle Crime Map here.</b>](https://public.tableau.com/profile/cindy.feng#!/vizhome/crime_seattle/SeattleCrimeMapOverview){:target="_blank"}
 * <b>Physical Computing and Prototyping, HCDE 539 Fall 2018</b>: Final individual project below
 * <b>Navigating Design in Organizations, HCDE 513 Winter 2019</b>
 * <b>Special Topics: Digital Fabrication, HCDE 598 Spring 2019</b>: Projects below
 * <b>Theoretical Foundations of Human Centered Design and Engineering, Fall 2019<b>
-* <b>(Current) Capstone, HCDE 592 and 593, Winter and Spring 2020</b>
+* <b>Master of Science Capstone, HCDE 592 and 593, Winter and Spring 2020</b>
 
 
 <b>***NOTE: I am the owner of all the photos and videos below and you cannot use them without my permission***<b>

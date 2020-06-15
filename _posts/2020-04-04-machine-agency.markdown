@@ -25,7 +25,7 @@ Goals: Make custom tool heads, contribute to project documentation and open sour
 
 In Spring 2020, because of the closure of UW campus due to COVID-19, the Machine Agency was kind enough to deliver the components so I can work on Jubilee from home.
 
-As of June 11, 2020, the machine is a functioning dual extruder 3D printer. The machine's first duty once I got the first 3D extruder head running in May was to print parts for itself (no more dangling EMI filter!), including parts for a second extruder head, which is partially build in the image below. I also added some photos and contributed to pages on the [<b>Jubilee project wiki</b>](https://www.jubilee3d.com){:target="_blank"}. [To add: video of multi-material printing and toolchanging]
+As of June 11, 2020, the machine is a functioning dual extruder 3D printer. The machine's first duty once I got the first 3D extruder head running in May was to print parts for itself (no more dangling EMI filter!), including parts for a second extruder head. I also added some photos and contributed to pages on the [<b>Jubilee project wiki</b>](https://www.jubilee3d.com){:target="_blank"}. [To add: video of multi-material printing and toolchanging]
 
 ![frame-assembly]({{site.baseurl}}/assets/img/jubilee/jubilee-spring2020.jpg)
 ![frame-assembly]({{site.baseurl}}/assets/img/jubilee/jubilee-firstparts.jpg)

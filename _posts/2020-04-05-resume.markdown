@@ -10,11 +10,12 @@ tags: [Resume, Portfolio, Experience]
 
 [<b>Download resume pdf here.</b>](/assets/documents/resume.pdf){:target="_blank"}
 
-Last updated: 05-12-2020
+Last updated: 06-14-2020
 
 Education Summary: 
-* Graduating with a Masters in Human Centered Design & Engineering June 2020
+* Master of Science in Human Centered Design & Engineering, University of Washington, 2020
 * Grad student in the [<b>University of Washington Machine Agency lab</b>](https://depts.washington.edu/machines/){:target="_blank"} focused on hardware prototyping, makerspace machine assembly, project documentation, and hardware interaction design
+* Bachelor of Science in Mechanical Engineering, University of California, San Diego, 2016
 
 Work Summary:
 * Currently an aircraft systems design engineer for commercial airplane flight decks
@@ -22,7 +23,7 @@ Work Summary:
 * Two patent pendings (USPTO application numbers [<b>16/110966</b>](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PG01&s1=FENG&s2=CYNTHIA&OS=FENG+AND+CYNTHIA&RS=FENG+AND+CYNTHIA/){:target="_blank"} and [<b>16/178354</b>](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=FENG&s2=CYNTHIA&OS=FENG+AND+CYNTHIA&RS=FENG+AND+CYNTHIA/){:target="_blank"} on automation of composite CAD design
 * Experienced in both R&D and factory/production environments
 * Previously interned as a Hot Wheels design engineer in the toy industry, and for a NASA educational program named [<b>Sally Ride EarthKAM</b>](https://www.earthkam.org/){:target="_blank"}
-* In undergrad I was a MATLAB TA for 8 consecutive academic quarters
+* During my undergraduate studies, I was a MATLAB Teaching Assistant for 8 consecutive academic quarters for UCSD's Mechanical and Aerospace Engineering Department
 
 Let's connect on LinkedIn: [<b>https://www.linkedin.com/in/cindy-g-feng/</b>](https://www.linkedin.com/in/cindy-g-feng/){:target="_blank"}
 
