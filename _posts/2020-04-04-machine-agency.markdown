@@ -7,17 +7,23 @@ img: jubilee/header.jpg # Add image post (optional)
 tags: [Machines, Research, HCDE, HardwareDev, Prototyping, Wiring, Tuning, Testing] # add tag
 ---
 
-Work in progress! Last updated: 06-11-2020
-
-<b>***NOTE: I am the owner of all the photos and gifs below and you cannot use them without my permission***<b>
+Work in progress! Last updated: 07-18-2020
 
 I'm a part time grad student in the [<b>University of Washington Machine Agency lab</b>](https://depts.washington.edu/machines/){:target="_blank"}.  I am working under the guidance of Professor Nadya Peek and HCDE PhD candidate Joshua Vasquez.  My research project is building an open-source, extensible multi-tool motion platform (CNC machine) called [<b>Jubilee</b>](https://www.jubilee3d.com){:target="_blank"}. I am always super happy to chat about the project!
 
 ### Summer 2020 (Current)
 
-I graduated from my Masters program but I was so excited to keep on working on Jubilee through the summer!
+I graduated from my Masters program but I was so excited to keep on working on Jubilee through the summer.
 
-Goals: Make custom tool heads, contribute to project documentation and open source community. Check back later for updates.
+Current progress as of July 18: I have been using Jubilee to 3D print many things this summer. I am still in the process of fine tuning the multi-material 3D printing. After that, I plan on making custom tool heads to take the project beyond 3D printing. Check back later for updates.
+
+![frame-assembly]({{site.baseurl}}/assets/img/jubilee/jubilee-3D-assortment.jpg)
+
+![frame-assembly]({{site.baseurl}}/assets/img/jubilee/dual-calibration-cube.jpg)
+
+And here is a video of a tool change!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2HuveLzDWmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ------------------------
 
@@ -25,7 +31,7 @@ Goals: Make custom tool heads, contribute to project documentation and open sour
 
 In Spring 2020, because of the closure of UW campus due to COVID-19, the Machine Agency was kind enough to deliver the components so I can work on Jubilee from home.
 
-As of June 11, 2020, the machine is a functioning dual extruder 3D printer. The machine's first duty once I got the first 3D extruder head running in May was to print parts for itself (no more dangling EMI filter!), including parts for a second extruder head. I also added some photos and contributed to pages on the [<b>Jubilee project wiki</b>](https://www.jubilee3d.com){:target="_blank"}. [To add: video of multi-material printing and toolchanging]
+As of June 11, 2020, the machine is a functioning dual extruder 3D printer. The machine's first duty once I got the first 3D extruder head running in May was to print parts for itself (no more dangling EMI filter!), including parts for a second extruder head. I also added some photos and contributed to pages on the [<b>Jubilee project wiki</b>](https://www.jubilee3d.com){:target="_blank"}.
 
 ![frame-assembly]({{site.baseurl}}/assets/img/jubilee/jubilee-spring2020.jpg)
 ![frame-assembly]({{site.baseurl}}/assets/img/jubilee/jubilee-firstparts.jpg)

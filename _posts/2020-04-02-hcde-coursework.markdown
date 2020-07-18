@@ -22,9 +22,6 @@ I've been a part time grad student from 2017-2020 learning and applying all aspe
 * <b>Theoretical Foundations of Human Centered Design and Engineering, Fall 2019<b>
 * <b>Master of Science Capstone, HCDE 592 and 593, Winter and Spring 2020</b>
 
-
-<b>***NOTE: I am the owner of all the photos and videos below and you cannot use them without my permission***<b>
-
 ------------------------
 ------------------------
 
