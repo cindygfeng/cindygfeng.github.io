@@ -17,7 +17,7 @@ I graduated from my Masters program but I was so excited to keep on working on J
 
 Current progress as of July 18: I have been using Jubilee to 3D print many things this summer. I am still in the process of fine tuning the multi-material 3D printing. After that, I plan on making custom tool heads to take the project beyond 3D printing. Check back later for updates.
 
-![frame-assembly]({{site.baseurl}}/assets/img/jubilee/jubilee-3D-assortment.jpg)
+![frame-assembly]({{site.baseurl}}/assets/img/jubilee/jubilee-3d-assortment.jpg)
 
 ![frame-assembly]({{site.baseurl}}/assets/img/jubilee/dual-calibration-cube.jpg)
 
