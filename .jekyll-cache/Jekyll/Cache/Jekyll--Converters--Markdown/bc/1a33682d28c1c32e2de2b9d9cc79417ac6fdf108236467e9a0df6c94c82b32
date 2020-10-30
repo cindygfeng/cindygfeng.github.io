@@ -1,20 +1,39 @@
-I"�<p>Work in progress! Last updated: 07-18-2020</p>
+I"P<p>Last updated: 10-05-2020</p>
 
-<p>I’m a part time grad student in the <a href="https://depts.washington.edu/machines/" target="_blank"><b>University of Washington Machine Agency lab</b></a>.  I am working under the guidance of Professor Nadya Peek and HCDE PhD candidate Joshua Vasquez.  My research project is building an open-source, extensible multi-tool motion platform (CNC machine) called <a href="https://www.jubilee3d.com" target="_blank"><b>Jubilee</b></a>. I am always super happy to chat about the project!</p>
+<p>I’m a part time grad student in the <a href="https://depts.washington.edu/machines/" target="_blank"><b>University of Washington Machine Agency lab</b></a>.  I am conducting research under the guidance of Professor Nadya Peek and HCDE PhD candidate Joshua Vasquez.  My research project is building an open-source, extensible multi-tool motion platform (CNC machine) called <a href="https://www.jubilee3d.com" target="_blank"><b>Jubilee</b></a>.</p>
 
-<h3 id="summer-2020-current">Summer 2020 (Current)</h3>
+<h3 id="fall-2020">Fall 2020</h3>
 
-<p>I graduated from my Masters program but I was so excited to keep on working on Jubilee through the summer.</p>
+<p>I decided to try a new tool with Jubilee, and proceeded to make a pen plotting tool. Assortment of photos and gifs below.</p>
 
-<p>Current progress as of July 18: I have been using Jubilee to 3D print many things this summer. I am still in the process of fine tuning the multi-material 3D printing. After that, I plan on making custom tool heads to take the project beyond 3D printing. Check back later for updates.</p>
+<p><img src="/assets/img/jubilee/plotted-sheep.jpg" alt="frame-assembly" /></p>
 
-<p><img src="/assets/img/jubilee/jubilee-3D-assortment.jpg" alt="frame-assembly" /></p>
+<p><img src="/assets/img/jubilee/plotted-states.jpg" alt="frame-assembly" /></p>
 
-<p><img src="/assets/img/jubilee/dual-calibration-cube.jpg" alt="frame-assembly" /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D2jvEphMjew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<p>And here is a video of a tool change!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vff4AMWqegQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2HuveLzDWmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DiALLmjsyYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<hr />
+
+<h3 id="summer-2020">Summer 2020</h3>
+
+<p>I graduated from my Masters program but I was so excited to keep on working on Jubilee through the summer. I am still in the process of fine tuning the multi-material 3D printing. After that, I plan on making custom tool heads to take the project beyond 3D printing.</p>
+
+<p>Single material flexible prints, and my first dual material cat:
+<img src="/assets/img/jubilee/3d-assortment.jpg" alt="frame-assembly" /></p>
+
+<p>Dual material pokemon:
+<img src="/assets/img/jubilee/dual-pokemon.jpg" alt="frame-assembly" /></p>
+
+<p>Dual material Moai head, with purge tower shown, fresh off the print!:
+<img src="/assets/img/jubilee/dual-moai.jpg" alt="frame-assembly" /></p>
+
+<p>And here is a video of a tool change.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KIAemZzsxLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <hr />
 
