@@ -9,7 +9,7 @@ tags: [Machines, Research, HCDE, HardwareDev, Prototyping, Wiring, Tuning, Testi
 
 Last updated: 10-05-2020
 
-I'm a part time graduate student researcher in the [<b>University of Washington Machine Agency lab</b>](https://depts.washington.edu/machines/){:target="_blank"}.  I am conducting research under the guidance of Professor Nadya Peek and HCDE PhD candidate Joshua Vasquez.  My research project is improving the build process an open-source, extensible multi-tool motion platform (CNC machine) called [<b>Jubilee</b>](https://www.jubilee3d.com){:target="_blank"}.
+I'm a part time graduate student researcher in the [<b>University of Washington Machine Agency lab</b>](https://depts.washington.edu/machines/){:target="_blank"}.  I am conducting research under the guidance of Professor Nadya Peek and HCDE PhD candidate Joshua Vasquez.  My research project is improving the build process for an open-source, extensible multi-tool motion platform (CNC machine) called [<b>Jubilee</b>](https://www.jubilee3d.com){:target="_blank"}.
 
 ### Fall 2020
 
